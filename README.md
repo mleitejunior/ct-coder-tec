@@ -1,4 +1,4 @@
-# Code Team 2020 - Superior Sistemas de Informação e Licenciatura em Informática
+# Code Team 2020 - Sistemas de Informação e Licenciatura em Informática
 ## GAPE AUTOBOTS - IFSULDEMINAS - Campus Machado - MG
 
 Repositório das soluções e discussões do grupo CodeTeam, ministrada por Marcelo Leite Junior [github.com/mleitejunior](https://github.com/mleitejunior)
@@ -45,68 +45,6 @@ O github irá pedir um nome para o repositório e ele irá para o seu github, po
 
 Após isso é só clonar seu repositório em seu computador e acessar o projeto através do NetBeans, seguindo os comandos abaixo.
 
-### Códigos GIT necessários para o curso:
-
-Durante as aulas acessaremos o git através de linha de comando, os principais commandos serão:
-
-```
-git config --global user.name "Meu username"
-```
-Para configurar seu nome no git de seu computador, é necessário escrever exatamente o mesmo da sua conta github.
-
-
-```
-git config --global user.email "Meu email"
-```
-Para configurar seu email no git de seu computador, também necessário escrever exatamente o mesmo da sua conta github.
-
-
-```
-git clone https://github.com/username/ct-coder-sup
-```
-Para colocar os arquivos do projeto em seu computador (rodar este código na pasta NetBeansProjects dentro de seus documentos).
-
-
-Após criar suas soluções, você pode salvá-las no repositório remoto através dos comandos:
-
-
-```
-git status
-```
-Para verificar se seu repositório está atualizado ou não em relação ao remoto, caso não estiver utilize o ```git pull```
-
-
-```
-git add nomedoarquivo.extensao
-```
-Para enfileirar um arquivo específico para ser enviado ao repositório remoto (precisa do caminho relativo ou completo)
-
-
-```
-git add .
-```
-Para enfileirar TODOS os arquivos que ainda não foram marcados.
-
-
-```
-git commit -m "Mensagem de atualização"
-```
-Para preparar os arquivos enfileirados para serem enviados ao servidor remoto através do push.
-
-
-```
-git push -u origin master
-```
-Para enviar efetivamente os arquivos para o github.com.
-
-
-Caso você tenha ja feito algum push em outro computador e vai mexer no seu repositório local desatualizado, utilize o comando:
-
-```
-git pull
-```
-"Puxa" todos os arquivos do repositório remoto para seu repositório local, atualizando-os.
-
 ### Pra que serve o arquivo README.md dentro de minha pasta pessoal no solutions?
 
 Assim como este arquivo que você está lendo agora, o seu readme.md servirá para sua apresentação pessoal e anotações de recursos importantes aprendidos para pesquisa posterior, além de ser uma colinha para depois levar as competições.
@@ -123,8 +61,6 @@ Após realizar seus commits e pushs, faça um pull request no repositório que e
 
 Qualquer outra dúvida, sugestão ou problema pode me contatar por email: ```mleitejunior@gmail.com```
 
-
-
 ### Agradecimentos
 
-Agradeço ao IFSULDEMINAS - Campus Machado pela ótima oportunidade em ministrar as aulas, ao professor e coordenador Matheus Elói pelas aulas e acreditar no meu trabalho e aos alunos também pela confiança e pela força de vontade que nos motiva a aprender e resolver problemas a cada semana.
+Agradeço ao IFSULDEMINAS - Campus Machado pela ótima oportunidade em ministrar as aulas, ao professor e coordenador Matheus Eloy pelas aulas e acreditar no meu trabalho e aos alunos também pela confiança e pela força de vontade que nos motiva a aprender e resolver problemas a cada semana.
