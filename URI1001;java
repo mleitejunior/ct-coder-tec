@@ -1,0 +1,34 @@
+//TUDO O QUE FOR COMENTADO É IGNORADO PELO PROGRAMA
+
+// Mostra para o arquivo em qual pacote ele se encontra (OBRIGATÓRIO)
+package marcelo_leite_junior;
+
+// Importa a classe que recebe os dados do usuario (o URI)
+import java.util.Scanner;
+
+// Classe que inicia o arquivo
+public class Marcelo_leite_junior {
+// Lembrar de por espacos como abaixo:
+    // Classe principal do programa (obrigatorio para rodar)
+    // psvm + tab
+    public static void main(String[] args) {
+        //Dentro do main
+        
+        // Instanciar o Scanner para receber os dados
+        Scanner sc = new Scanner(System.in);
+        
+        // Reservar espaço para o primeiro numero
+        // Receber primeiro int do usuario
+        int A = sc.nextInt();
+        
+        // Receber segundo int do usuario
+        int B = sc.nextInt();
+        
+        // Somar os dois numeros e salvar na variavel X
+        int X = A + B;
+        
+        // sout + TAB
+        // Mostra algum valor na tela
+        System.out.println("X = " + X);
+    }
+}
