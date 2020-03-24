@@ -14,4 +14,4 @@
 | Luiz Eduardo Milan Pereira | :question: | :question: | :question: |
 | Luíz Gustavo Teodoro | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Matheus de Oliveira Santos | :question: | :question: | :question: |
-| Maycon Ivis Franca Carpes | :heavy_check_mark: | :question: | :question: |
+| Maycon Ivis Franca Carpes | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
