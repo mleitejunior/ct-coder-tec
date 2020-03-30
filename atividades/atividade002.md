@@ -10,7 +10,7 @@
 | Gabriel dos Santos Nascimento | :question: | :question: | :question: | URI1013 :question: |
 | Gabriel Milan Martinelli | :question: | :question: | :question: | URI1015 :question: |
 | Kauan goncalves Souza Barbosa | :question: | :question: | :question: | URI1019 :question: |
-| Luana Costa Sarto | :question: | :question: | :question: | URI1013 :question: |
+| Luana Costa Sarto | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1013 :heavy_check_mark: |
 | Luiz Eduardo Milan Pereira | :question: | :question: | :question: | URI1015 :question: |
 | Luíz Gustavo Teodoro | :question: | :question: | :question: | URI1018 :question: |
 | Maycon Ivis Franca Carpes | :question: | :question: | :question: | URI1019 :question: |
