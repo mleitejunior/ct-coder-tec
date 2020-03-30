@@ -11,7 +11,7 @@
 | Gabriel Milan Martinelli | :question: | :question: | :question: |
 | Kauan goncalves Souza Barbosa | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Luana Costa Sarto | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Luiz Eduardo Milan Pereira | :question: | :question: | :question: |
+| Luiz Eduardo Milan Pereira | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Luíz Gustavo Teodoro | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Matheus de Oliveira Santos | :question: | :question: | :question: |
 | Maycon Ivis Franca Carpes | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
