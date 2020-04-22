@@ -1,8 +1,13 @@
 TIME1: [Alex Silva <email>, Maycon Ivis Franca TEC, Igor Alves]
+    
 TIME2: [Bruna Delmouro, Luís Henrique Freire, Josias de Oliveira]
+
 TIME3: [Alex de Souza, Luana Costa Sarto TEC, Marcelo Leite]
+
 TIME4: [Emerson Renaki, Luiz Eduardo Milan TEC, Gustavo Oliveira]
+
 TIME5: [Kauan Gonçalves Souza Barbosa TEC, Diego Henrique, Lucas Viana]
+
 TIME6: [Matheus F. Ribeiro, Caio Marques]
 
 Capitães:
